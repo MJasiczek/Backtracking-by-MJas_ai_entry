@@ -1,0 +1,13 @@
+C:\Users\dzony\source\repos\Backtracking by MJas\Backtracking by MJas\bin\Debug\netcoreapp3.1\Backtracking by MJas.exe
+C:\Users\dzony\source\repos\Backtracking by MJas\Backtracking by MJas\bin\Debug\netcoreapp3.1\Backtracking by MJas.deps.json
+C:\Users\dzony\source\repos\Backtracking by MJas\Backtracking by MJas\bin\Debug\netcoreapp3.1\Backtracking by MJas.runtimeconfig.json
+C:\Users\dzony\source\repos\Backtracking by MJas\Backtracking by MJas\bin\Debug\netcoreapp3.1\Backtracking by MJas.runtimeconfig.dev.json
+C:\Users\dzony\source\repos\Backtracking by MJas\Backtracking by MJas\bin\Debug\netcoreapp3.1\Backtracking by MJas.dll
+C:\Users\dzony\source\repos\Backtracking by MJas\Backtracking by MJas\bin\Debug\netcoreapp3.1\Backtracking by MJas.pdb
+C:\Users\dzony\source\repos\Backtracking by MJas\Backtracking by MJas\obj\Debug\netcoreapp3.1\Backtracking by MJas.csprojAssemblyReference.cache
+C:\Users\dzony\source\repos\Backtracking by MJas\Backtracking by MJas\obj\Debug\netcoreapp3.1\Backtracking by MJas.csproj.CoreCompileInputs.cache
+C:\Users\dzony\source\repos\Backtracking by MJas\Backtracking by MJas\obj\Debug\netcoreapp3.1\Backtracking by MJas.AssemblyInfoInputs.cache
+C:\Users\dzony\source\repos\Backtracking by MJas\Backtracking by MJas\obj\Debug\netcoreapp3.1\Backtracking by MJas.AssemblyInfo.cs
+C:\Users\dzony\source\repos\Backtracking by MJas\Backtracking by MJas\obj\Debug\netcoreapp3.1\Backtracking by MJas.dll
+C:\Users\dzony\source\repos\Backtracking by MJas\Backtracking by MJas\obj\Debug\netcoreapp3.1\Backtracking by MJas.pdb
+C:\Users\dzony\source\repos\Backtracking by MJas\Backtracking by MJas\obj\Debug\netcoreapp3.1\Backtracking by MJas.genruntimeconfig.cache
